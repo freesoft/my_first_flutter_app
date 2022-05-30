@@ -1,6 +1,6 @@
-# hello_world
+# My First Flutter App
 
-A new Flutter project.
+A new Flutter project while I was following https://docs.flutter.dev/get-started/codelab
 
 ## Getting Started
 
